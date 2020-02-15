@@ -1,0 +1,1 @@
+For more details on how to host [xaringan](https://github.com/yihui/xaringan) slides online using [github pages](https://pages.github.com/) see [this blog post](https://www.aj2duncan.com/blog/hosting-xaringan-slides-using-github-pages/). 
